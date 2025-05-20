@@ -43,7 +43,7 @@ const Services = () => {
   ];
 
   return (
-    <section id="services" className="bg-[linear-gradient(to_bottom,_#000000,_#0a0a60)] text-white py-16 px-4 lg:px-35">
+    <section id="services" className=" text-white py-16 px-4 lg:px-35">
       <div className="max-w-7xl mx-auto text-center">
         <h1 className="text-4xl font-bold mb-10">
           <span className="text-transparent bg-gradient-to-r from-pink-500 to-orange-400 bg-clip-text">

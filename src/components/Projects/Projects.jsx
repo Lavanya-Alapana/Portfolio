@@ -4,10 +4,8 @@ import projects from '../Data/ProjectData';
 const Projects = () => {
   return (
     <section
-      className="py-16 px-9 bg-[linear-gradient(to_bottom,_#000000,_#0a0a60)] text-white relative
-      lg:px-32
-      
-      "
+    id="projects"
+      className="py-16 px-9  text-white relative lg:px-32 "
       
     >
       <h2 className="text-4xl font-bold text-center mb-10">My Projects</h2>

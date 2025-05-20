@@ -11,7 +11,7 @@ import Footer from './components/Footer/Footer'
 function App() {
   return (
     <>
-      <div className="min-h-screen w-full bg-[linear-gradient(to_bottom,_#000000,_#0a0a60)]">
+      <div className="min-h-screen w-full bg-black">
        
           <Navbar />
           <Hero /> 
