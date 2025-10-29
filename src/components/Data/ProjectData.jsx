@@ -2,6 +2,15 @@
 
 const projects = [
   {
+    name: 'Aid Global Foundation',
+    description: 'A responsive NGO website built to showcase Aid Global Foundation\'s mission, programs, and donation system with secure payment integration.',
+    image: '/aid-global.png',
+    tools: ['React', 'Tailwind CSS', 'Stripe', 'Node.js'],
+    link: 'https://aidglobalfoundation.org',
+    github: 'https://github.com/yourusername/aid-global-foundation'
+  },
+
+  {
     name: 'Mobile Shopping Application',
     description: 'A mobile-first shopping app with cart, wishlist, payment, and order tracking features.',
     image: '/mobile.png',
@@ -31,12 +40,7 @@ const projects = [
     image: '/editor.png',
     tools: ['React', 'Redux', 'Dagre.js'],
   },
-  {
-    name: 'Weather App',
-    description: 'Real-time weather dashboard with location-based forecasting and charts.',
-    image: '/weather.png',
-    tools: ['React', 'OpenWeatherMap API', 'Chart.js'],
-  },
+  
 ];
 
 export default projects;

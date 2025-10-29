@@ -32,7 +32,7 @@ function About() {
   {/* RIGHT: Text */}
   <div className="w-full md:w-2/3 text-center md:text-left mt-8 md:mt-0">
     <p className="text-gray-300 text-lg leading-relaxed mb-6">
-      I'm a full-stack developer with over 2 years of experience crafting modern, responsive, and scalable web applications. I specialize in the MERN stack and love creating smooth user interfaces and robust backend systems.
+      I'm a full-stack developer with over 1 year of experience crafting modern, responsive, and scalable web applications. I specialize in the MERN stack and love creating smooth user interfaces and robust backend systems.
 
 My development journey is driven by a strong passion for solving real-world problems through code. I enjoy transforming complex requirements into clean, efficient solutions that prioritize performance and user experience. Whether it's building RESTful APIs, optimizing front-end performance, or integrating third-party services, I approach each challenge with a detail-oriented mindset.
 

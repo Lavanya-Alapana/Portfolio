@@ -38,7 +38,7 @@ function Hero() {
           </h3>
 
           <p className="text-gray-300 text-lg leading-relaxed max-w-md mx-auto md:mx-0">
-            I’m a full-stack developer with 2+ years of experience building scalable apps using MERN & modern technologies.
+            I’m a full-stack developer with 1+ years of experience building scalable apps using MERN & modern technologies.
           </p>
 
           {/* Social Links Row */}
