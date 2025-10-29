@@ -62,7 +62,7 @@ function Hero() {
           </div>
 
           <a
-            href="/resume.pdf"
+            href="/Resume.pdf"
             download
             className="inline-block bg-gradient-to-r from-purple-500 to-pink-500 text-white font-semibold px-6 py-3 rounded-lg mt-4 hover:scale-105 transition"
           >
